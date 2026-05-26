@@ -1,0 +1,10 @@
+dialog.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\makescreen.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\makescreen.vi".
+lnssv3.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\wraptext.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\kb.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\kb.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\Desktop\dialog.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\dialog.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\await exit.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\await exit.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\np.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\np.vi".
