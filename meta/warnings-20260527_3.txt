@@ -1,0 +1,3 @@
+books.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\wraptext.vi".

@@ -1,0 +1,22 @@
+dialog.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\makescreen.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\plumbing\makescreen.vi".
+fileman.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\kb.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\kb.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\wraptext.vi".
+kb.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\wraptext.vi".
+lnssv3.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\wraptext.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\dispnum.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\dispnum.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\np.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\np.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\dialog.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\dialog.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\await exit.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\await exit.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\gadgets\fileman.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\fileman.vi".
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UI\kb.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\kb.vi".
+np.vi
+  Virtual Instrument
+    - The subVI expected to be at "C:\Users\gyw_V\Downloads\lnssv3\subVIs\Apps\wraptext.vi" was loaded from "C:\Users\gyw_V\Downloads\lnssv3\subVIs\UIElements\wraptext.vi".
